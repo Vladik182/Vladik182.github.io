@@ -1,0 +1,10 @@
+.list { 
+    position: absolute;
+    width: 537px; 
+    background: #FFFFFF;
+    border: solid 1px black; 
+	top: 60px;
+    left: 311px; 
+	right: 311px;
+	bottom: 0;
+   }
